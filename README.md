@@ -9,6 +9,7 @@ En el caso de la Consulta 1 tenemos productos dentro de la tabla de productos qu
 <img width="342" height="257" alt="image" src="https://github.com/user-attachments/assets/dbdc081a-dfdb-472f-aa14-fbfea8e3008d" />
 
 En el caso de la Consulta 2, que producto_id de productos sea NULL quiere decir que no es producto registrado dentro de la tabla productos.
+<img width="285" height="257" alt="image" src="https://github.com/user-attachments/assets/0f354d6a-ed10-4ba0-8f55-6d7f58c6eac6" />
 
 ## ¿Cuándo usarías FULL OUTER JOIN en un caso real de negocio?
 Usaria FULL OUTER JOIN en un caso donde quiera visualizar toda la informacion dispoinble, tener un panaroma general.
